@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+fpdf
+langchain
+python-multipart
+langchain_community
+pypdf
+openai
+python-dotenv
+#sentence-transformers
